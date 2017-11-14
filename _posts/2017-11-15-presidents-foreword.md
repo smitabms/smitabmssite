@@ -4,8 +4,7 @@ post_title: 'President&#8217;s Foreword'
 author: Tanvir Hasan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://biztest.tk/2017/11/15/presidents-foreword/
+permalink: http://biztest.tk/presidents-foreword/
 published: true
 post_date: 2017-11-15 05:29:09
 ---
